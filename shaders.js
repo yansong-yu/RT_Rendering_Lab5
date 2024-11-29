@@ -150,9 +150,6 @@ fragment_shader_code_models = `
     uniform sampler2D tex1;
 
     uniform vec3 kakdks;
-
-    // use a simple hard-coded directional light
-    // const vec3 lightDirection = normalize(vec3(0.0, -1.0, -1.0)); 
    
     const vec3 ambientLight = vec3(.5, 0.5, 0.5);
 
@@ -266,8 +263,6 @@ fragment_shader_code_water = `
     varying vec3 normal;
     varying vec4 world_pos;
     uniform vec3 camera_pos;
-
-    uniform sampler2D tex;
 
     // use a simple hard-coded directional light
     // const vec3 lightDirection = normalize(vec3(0.0, -1.0, -1.0)); 

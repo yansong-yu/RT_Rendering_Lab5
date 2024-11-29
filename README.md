@@ -1,5 +1,5 @@
 # RT_Rendering_Lab4
-A Scene with a Hierarchical (6 hierarchy) Windmill, Trees (third party mesh downloaded from https://sketchfab.com/3d-models/huaranhuay-357ae26a13a540f6889c8fdf5382045e) and periodic sea inspired by https://www.shadertoy.com/view/MdXyzX.
+A Scene with a Hierarchical (6 hierarchy) Windmill, Trees (third party mesh downloaded from https://sketchfab.com/3d-models/huaranhuay-357ae26a13a540f6889c8fdf5382045e), periodic sea inspired by https://www.shadertoy.com/view/MdXyzX and skybox texture from https://opengameart.org/content/spacemoon-skybox.
 ![preview](image.png)
 
 ## Features
